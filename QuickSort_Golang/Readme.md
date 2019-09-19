@@ -1,5 +1,3 @@
-cerner_2^5_2019
-
 # Cerner-Engineering-Productivity-Challenge
 - Sorts the input (slice) using Quick Sort
 
